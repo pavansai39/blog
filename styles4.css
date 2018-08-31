@@ -1,0 +1,112 @@
+﻿body{
+
+	background-color:#e6f2ff;
+	
+}
+header{
+background-color:#b3d7ff;
+text-align:center;
+padding:10px;
+font-family:helvetica;
+border:50px;
+overflow:hidden;
+
+margin:0;
+color:#ccccff;
+
+
+
+}
+h1{
+	color:#ffe866;
+	
+
+}
+header img{
+width:150px;
+height:150px;
+float:left;
+}
+.nav li{
+
+float:left;
+
+}
+.nav ul{
+list-style-type:none;
+background-color:#EBEBEB;
+margin:0;
+padding:0;
+overflow:hidden;
+
+}
+.nav li a{
+
+text-decoration:none;
+padding:10 60px;
+display:block;
+}
+.nav li a:hover{
+
+background-color:blue;
+color:purple;
+}
+
+	.p2{
+		background-color:#666699;
+		marigin:20px;
+		padding:20px;
+		border:20px;
+}
+.restaurant{
+			
+		background:url("38791493104c0a786259266b323d1d6e.jpg") no repeat;
+		height:500px;
+		width:500px;
+		box-shadow:0 0 50px #3f0c1f;
+		border:2px shadow #3f0c1f;
+	
+
+	}
+
+	
+
+	@media(min-width:1200px){
+		.restaurant{
+			
+		background:url("38791493104c0a786259266b323d1d6e.jpg") no repeat;
+		height:400px;
+		box-shadow:0 0 50px #3f0c1f;
+		border:2px shadow #3f0c1f;
+	
+
+	}
+}
+	@media(min-width:992px) and (max-width:1199px){
+	.reastaurant{
+		
+	background:url("38791493104c0a786259266b323d1d6e.jpg") no repeat;
+		height:300px;
+		box-shadow:0 0 50px #3f0c1f;
+		border:2px shadow #3f0c1f;
+
+
+	}
+}	
+
+	@media(min-width:768px) and (max-width:991px){
+	.reastaurant{
+		
+	background:url("38791493104c0a786259266b323d1d6e.jpg") no repeat;
+		height:200px;
+		box-shadow:0 0 50px #3f0c1f;
+		border:2px shadow #3f0c1f;
+
+
+	}
+}	
+footer{
+background-color:black;
+
+
+}
