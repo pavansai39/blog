@@ -1,2 +1,2 @@
-# coursera-repository
+# blog
 coursera test-repositary
